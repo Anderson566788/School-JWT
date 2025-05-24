@@ -150,6 +150,7 @@ MYSQL_USER=root
 MYSQL_PASSWORD=suasenha
 MYSQL_DATABASE=school
 JWT_SECRET=suachavesecreta
+```
 
 ---
 Desenvolvido por Anderson Freire. 🚀
